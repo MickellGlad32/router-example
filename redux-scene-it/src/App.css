@@ -1,0 +1,15 @@
+.App{
+    background-image: url("/src/Movie_reel.jpeg") ;
+    height: 100%;
+    background-position: center;
+    background-repeat:repeat;
+    background-size: cover;
+
+
+}
+h2{
+    color:red;
+}
+p{
+    color:red;
+}
